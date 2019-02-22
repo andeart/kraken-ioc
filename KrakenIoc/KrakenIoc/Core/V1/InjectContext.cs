@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using AOFL.KrakenIoc.Core.V1.Interfaces;
 
-namespace AOFL.KrakenIoc.Core
+namespace AOFL.KrakenIoc.Core.V1
 {
     /// <summary>
     /// Represents additional data passed when injecting into property, field, method or constructor

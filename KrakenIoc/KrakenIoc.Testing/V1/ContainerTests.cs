@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using AOFL.KrakenIoc.Core.V1.Exceptions;
 using System.Linq;
 
-namespace AOFL.KrakenIoc.Testing
+namespace AOFL.KrakenIoc.Testing.V1
 {
     [TestClass]
     public class ContainerTests
